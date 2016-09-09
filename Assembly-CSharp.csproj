@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4DCCD5D7-19E4-A43E-6099-61D6E200BB0A}</ProjectGuid>
+    <ProjectGuid>{70FDF770-A6CE-3DAF-FF14-6F0B87571209}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BG_Looper.cs" />
      <Compile Include="Assets\BirdMovement.cs" />
      <Compile Include="Assets\CameraTracksPlayer.cs" />
  <Reference Include="UnityEngine.Networking">

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{44B418F7-90FE-01BB-9954-71EA12273993}") = "CloneBird", "Assembly-CSharp.csproj", "{4DCCD5D7-19E4-A43E-6099-61D6E200BB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DCCD5D7-19E4-A43E-6099-61D6E200BB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCCD5D7-19E4-A43E-6099-61D6E200BB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCCD5D7-19E4-A43E-6099-61D6E200BB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCCD5D7-19E4-A43E-6099-61D6E200BB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

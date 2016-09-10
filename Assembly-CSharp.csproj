@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\BG_Looper.cs" />
+     <Compile Include="Assets\BK_GroundMover.cs" />
      <Compile Include="Assets\BirdMovement.cs" />
      <Compile Include="Assets\CameraTracksPlayer.cs" />
  <Reference Include="UnityEngine.Networking">
